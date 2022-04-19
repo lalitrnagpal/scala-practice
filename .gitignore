@@ -1,2 +1,8 @@
 *.class
 *.log
+.target/
+.git/
+.idea/
+target
+git
+idea
